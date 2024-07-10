@@ -47,7 +47,7 @@ class Blah {
 		json.put("country", request.getCountry());
 		json.put("city", request.getCity());
 		json.put("car", request.getCar());
-
+		return json;
 	}
 	// Meu primeiro projeto
 }
