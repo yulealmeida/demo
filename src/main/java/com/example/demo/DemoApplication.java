@@ -52,8 +52,7 @@ class Blah {
 	// Enviando projeto para Github.
 	//salve
 
-// hoje
-	// koe
+
 
 
 
